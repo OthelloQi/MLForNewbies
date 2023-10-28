@@ -1,2 +1,5 @@
 jupyter
-noteboo
+notebook
+numpy
+pandas
+matplotli
