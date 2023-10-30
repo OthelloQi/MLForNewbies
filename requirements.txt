@@ -6,4 +6,8 @@ matplotlib
 xlrd
 scipy
 sklearn
-py
+pytest
+tensorflow
+keras
+nltk
+g
