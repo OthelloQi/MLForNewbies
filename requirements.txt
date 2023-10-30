@@ -2,4 +2,8 @@ jupyter
 notebook
 numpy
 pandas
-matplotli
+matplotlib
+xlrd
+scipy
+sklearn
+py
