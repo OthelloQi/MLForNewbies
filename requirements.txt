@@ -10,4 +10,4 @@ pytest
 tensorflow
 keras
 nltk
-g
+gensim
